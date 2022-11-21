@@ -1,0 +1,10 @@
+package java_LJH_instance_example;
+
+public class Simple {
+	public static void main(String[] args) {
+		
+		for (int i = 0; i < args.length; i++) {
+			System.out.println(args[i]);
+		}
+	}
+}
